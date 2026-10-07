@@ -1,0 +1,24 @@
+# https://github.com/github/gitignore
+# macOS
+# General
+.DS_Store
+.localized
+__MACOSX/
+.AppleDouble
+.LSOverride
+Icon[
+]
+
+# Windows
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# ide
+.idea/
+.vscode/
+
+# 数据
+/data/
